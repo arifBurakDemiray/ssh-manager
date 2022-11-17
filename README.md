@@ -10,3 +10,7 @@ Then bam you are inside
 This is an early imlpementation. It lacks controls of inputs.
 
 For future, I am going to implement giving commands with their sudo pwd etc.
+
+Example output:
+![](misc/ex_output.png)
+
